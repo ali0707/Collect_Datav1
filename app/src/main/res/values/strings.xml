@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ashref_dataTest</string>
+	<string name="no_providers">No data is available on this device</string>
+	<string name="forensics_subdir">data_aschref</string>
+	<string name="no_external_drive">Cannot access external storage directory</string>
+	<string name="cant_access_subdirectory">Can\'t create or access external drive</string>
+	<string name="ok">Ok</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+	<string name="too_many_threads">Number of content providers invoked = </string>
+	<string name="extracting_data">Extracting data...</string>
+	<string name="usbStorageOffTxt">Please \"Turn off USB storage\" before using this application.</string>
+	<string name="sdcardRemovedTxt">Unable to detect any sdcard.</string>
+	//<string name="noReadWriteTxt">prob f sdcard hothaa.</string>
+</resources>
