@@ -6,28 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e189198b-d523-4540-84ce-005e3e8edeb3" name="Default Changelist" comment="data bug">
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/CheckBoxAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/DataCaptureDetailProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/DialogManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/ExtractAllData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/ForensicsActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/ForensicsApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/ForensicsException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/ForensicsGatherer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/content/LargeContentManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/logs/DebugLogger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/os/ExternalStorageHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/providers/CSVCharEscapeWrapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/providers/CSVForensicsProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/providers/CallLogProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/providers/ForensicsProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/providers/MmsPartsProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/util/PackageManagerHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/view/ForensicsProviderListItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/com/viaforensics/android/view/ForensicsProviderListManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/mobile_data_achrf/ForensicsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/mobile_data_achrf/ForensicsActivity.java" afterDir="false" />
-    </list>
+    <list default="true" id="e189198b-d523-4540-84ce-005e3e8edeb3" name="Default Changelist" comment="data bugxxdx" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
